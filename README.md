@@ -1,6 +1,6 @@
 # DEAD AIR: The Thirteenth Frequency
 
-A Pygame survival-puzzle maze built to match the Unit 3 Haunted Maze AI assignment and game design document. **The same `main.py` runs on desktop and in a browser via Pygbag.** You do not need to rewrite the game in JavaScript.
+
 
 ## Desktop game
 
