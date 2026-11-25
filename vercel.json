@@ -1,6 +1,6 @@
 {
-  "version": 2,
   "framework": null,
-  "outputDirectory": "public",
-  "buildCommand": "echo 'Serving Pygbag-generated static website from public/'"
+  "installCommand": "echo 'Dependencies installed during build'",
+  "buildCommand": "uv run --python 3.12 --with-requirements requirements.txt python -m pygbag --build .",
+  "outputDirectory": "build/web"
 }
